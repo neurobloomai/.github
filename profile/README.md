@@ -24,14 +24,4 @@ New to PACT? Read [`pact`](https://github.com/neurobloomai/pact) first, then pic
 
 ---
 
-## Utility tools
-
-Open-source tools built alongside the protocol work — free for anyone to use.
-
-| Repo | What it does |
-|---|---|
-| [`market-tools`](https://github.com/neurobloomai/market-tools) | Market dashboards and quality stock screeners for US and India (Yahoo Finance) |
-
----
-
 *MIT-licensed. Issues and PRs welcome across every layer.*
