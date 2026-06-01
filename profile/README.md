@@ -1,6 +1,6 @@
 # neurobloom.ai
 
-Open protocols and emotionally intelligent infrastructure for AI agents.
+Open protocols for AI agent collaboration — capability discovery, trust-weighted routing, and state handoffs between heterogeneous agents.
 Home of **PACT** — the Protocol for Agent Collaboration & Transfer.
 
 ---
