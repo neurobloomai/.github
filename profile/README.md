@@ -1,5 +1,9 @@
 # neurobloom.ai
 
+BigTech built compute, models, and protocols. The trust layer was assumed, never encoded. PACT is that encoding — in progress, open source, available now.
+
+PACT is the protocol. PACT-AX is the agent coordination layer. Start here.
+
 Open protocols for AI agent collaboration — capability discovery, trust-weighted routing, and state handoffs between heterogeneous agents.
 Home of **PACT** — the Protocol for Agent Collaboration & Transfer.
 
