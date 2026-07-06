@@ -40,7 +40,7 @@ if decision.routed:
 
 | Repo | Layer | What it handles |
 |---|---|---|
-| [`pact`](https://github.com/neurobloomai/pact) | Core | The protocol itself — how agents speak a shared language |
+| [`pact`](https://github.com/neurobloomai/pact) | Core | The open-source trust layer for AI agent coordination |
 | [`pact-ax`](https://github.com/neurobloomai/pact-ax) | **A**gent e**x**perience | Agent-to-agent collaboration primitives (server) |
 | [`pact-ax-client`](https://github.com/neurobloomai/pact-ax-client) | SDK | Python SDK for pact-ax — `pip install pact-ax-client` |
 | [`pact-hx`](https://github.com/neurobloomai/pact-hx) | **H**uman e**x**perience | How agents show up for a single human |
