@@ -43,6 +43,7 @@ if decision.routed:
 | [`pact`](https://github.com/neurobloomai/pact) | Core | The open-source trust layer for AI agent coordination |
 | [`pact-ax`](https://github.com/neurobloomai/pact-ax) | **A**gent e**x**perience | Agent-to-agent collaboration primitives (server) |
 | [`pact-ax-client`](https://github.com/neurobloomai/pact-ax-client) | SDK | Python SDK for pact-ax — `pip install pact-ax-client` |
+| [`pact-a2a`](https://github.com/neurobloomai/pact-a2a) | Interop | A2A 1.0 intent-fidelity adapter — `origin_intent` referenced, never reconstructed |
 | [`pact-hx`](https://github.com/neurobloomai/pact-hx) | **H**uman e**x**perience | How agents show up for a single human |
 | [`pact-hh`](https://github.com/neurobloomai/pact-hh) | **H**uman-**H**uman | Humans collaborating through agents |
 | [`pact-gx`](https://github.com/neurobloomai/pact-gx) | **G**overnance | Relational authority and structural dissent |
